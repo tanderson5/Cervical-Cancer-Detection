@@ -1,7 +1,7 @@
 # Cervical-Cancer-Detection
 Deep Learning Classification of Pap Smear Cytology Images
 
-Colab links if viewing issues in github:
+Colab links:
 
 EfficientNet-B4: https://colab.research.google.com/drive/1twC1sTTkXMeS83lu-usEIAoSLcj0OGEF?usp=sharing
 
